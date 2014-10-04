@@ -1,9 +1,9 @@
 /*
- *= footable.core.css
- *= footable.core.min.css
- *= footable.metro.css
- *= footbale.metro.min.css
- *= footable.standalone.css
- *= footable.standalone.min.css
+ *= require footable.core.css
+ *= require footable.core.min.css
+ *= require footable.metro.css
+ *= require footable.metro.min.css
+ *= require footable.standalone.css
+ *= require footable.standalone.min.css
  *= require_tree ./fonts/
 */
