@@ -2,5 +2,4 @@
  *= require ./footable.core.css
  require ./footable.metro.css
  require ./footable.standalone.css
- *= require_tree ./fonts/
 */
